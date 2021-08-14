@@ -1,8 +1,8 @@
-package activi2;
+package activity2;
 
 import java.util.*;
 
-public class ques2 {
+public class activity2 {
 	public static void main(String args[]){
 		Scanner sc = new Scanner(System.in);
 		int n=10,max=0,count=0;
